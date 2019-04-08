@@ -1,5 +1,5 @@
 # I_wrote_a_virus_code.c - My own virus against myself!
-# Copyright (c) 2015-2019 ardeshirv@protonmail.com, Licensed under GPLv3+
+# Copyright (c) 2019 ardeshirv@protonmail.com, Licensed under GPLv3+
 
 PROG=I_wrote_a_virus_code
 CC=gcc
