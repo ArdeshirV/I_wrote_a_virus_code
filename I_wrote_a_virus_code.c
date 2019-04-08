@@ -1,5 +1,5 @@
 /** I_wrote_a_virus_code.c - My own virus against myself! It's just a joke.
- ** Copyright (c) 2019 ardeshirv@protonmail.com, Licensed under GPLv3  **/
+ ** Copyright (c) 2019 ardeshirv@protonmail.com, Licensed under GPLv3+  **/
 #include <stdio.h>
 #include <string.h>
 
@@ -16,3 +16,4 @@ int main(int argc, char **argv) {
     printf(charArrOut, charBuffLine, charMsg, charBuffLine);
     return getchar();
 }
+
